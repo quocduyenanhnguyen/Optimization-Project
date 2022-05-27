@@ -23,7 +23,6 @@ Model: (https://user-images.githubusercontent.com/92205707/170789639-46abacf2-1b
 Range: (https://user-images.githubusercontent.com/92205707/170789664-6fe28ceb-bb1c-41c1-952c-a7657fba5776.png)
 • For the Herr Cutter problem, I simulated the system to find out the average waiting time in the queue to get haircut and the range of waiting time in the queue that customers are expected to wait. The two random events in this problem are interarrival and service time. You can preview the sreenshot of my model and my model's range of waiting time in Excel file here:
 (https://user-images.githubusercontent.com/92205707/170789878-26541411-09ae-4078-8787-cf589cad3878.png)
-
 The detailed description of the three problem statements along with my solution for the three problems can be found in the Excel spreadsheet.
 
 
