@@ -1,0 +1,1692 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01D87168.C59B33D0"
+
+
+
+------=_NextPart_01D87168.C59B33D0
+Content-Location: file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"Anna_Nguyen_PH1_Excel_Solver.fld/filelist.xml"=
+>
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"Anna_Nguyen_PH1_Excel_Solver.fld/sheet001.htm">
+<link id=3D"shLink" href=3D"Anna_Nguyen_PH1_Excel_Solver.fld/sheet002.htm">
+<link id=3D"shLink" href=3D"Anna_Nguyen_PH1_Excel_Solver.fld/sheet003.htm">
+=0A<link id=3D"shLink">=0A=0A<script language=3D"JavaScript">=0A<!--=0A var =
+g_iIEVer=3D0;=0A =0A var c_lTabs=3D3;=0A=0A var c_rgszSh=3Dnew Array(c_lTabs=
+);=0A c_rgszSh[0] =3D "Answer Report 1";
+ c_rgszSh[1] =3D "Sensitivity Report 1";
+ c_rgszSh[2] =3D "Setup";
+=0A=0A var c_rgszClr=3Dnew Array(8);=0A c_rgszClr[0]=3D"window";=0A c_rgszCl=
+r[1]=3D"buttonface";=0A c_rgszClr[2]=3D"windowframe";=0A c_rgszClr[3]=3D"win=
+dowtext";=0A c_rgszClr[4]=3D"threedlightshadow";=0A c_rgszClr[5]=3D"threedhi=
+ghlight";=0A c_rgszClr[6]=3D"threeddarkshadow";=0A c_rgszClr[7]=3D"threedsha=
+dow";=0A=0A var g_iShCur;=0A var g_rglTabX=3Dnew Array(c_lTabs);=0A=0Afuncti=
+on fnBuildFrameset()=0A{=0A var szHTML=3D"<frameset rows=3D\"*,18\" border=
+=3D0 width=3D0 frameborder=3Dno framespacing=3D0>"+=0A  "<frame src=3D\""+do=
+cument.all.item("shLink")[2].href+"\" name=3D\"frSheet\" noresize>"+=0A  "<f=
+rameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>"+=0A  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginhei=
+ght=3D0 scrolling=3Dno>"+=0A  "<frame src=3D\"\" name=3D\"frTabs\" marginwid=
+th=3D0 marginheight=3D0 scrolling=3Dno>"+=0A  "</frameset></frameset><plaint=
+ext>";=0A=0Adocument.open("text/html","replace");=0Adocument.write(szHTML);=
+=0Adocument.close();=0A=0A fnBuildTabStrip();=0A}=0A=0Afunction fnBuildTabSt=
+rip()=0A{=0A var szHTML=3D=0A  "<html><head><style>.clScroll {font:8pt Couri=
+er New;color:"+c_rgszClr[2]+";cursor:default;line-height:10pt;}"+=0A  ".clSc=
+roll2 {font:10pt Arial;color:"+c_rgszClr[2]+";cursor:default;line-height:11p=
+t;}</style></head>"+=0A  "<body onclick=3D\"event.returnValue=3Dfalse;\" ond=
+ragstart=3D\"event.returnValue=3Dfalse;\" onselectstart=3D\"event.returnValu=
+e=3Dfalse;\" bgcolor=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table =
+cellpadding=3D0 cellspacing=3D0 width=3D100%>"+=0A  "<tr><td colspan=3D6 hei=
+ght=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+=0A  "<tr><td style=3D\"font:=
+1pt\">&nbsp;<td>"+=0A  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" =
+onclick=3D\"parent.fnFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOver=
+Scroll(0);\" onmouseout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>=
+"+=0A  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"par=
+ent.fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=
+=3D\"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1=
+);\"><a>&lt</a></td>"+=0A  "<td valign=3Dtop id=3DtdScroll class=3D\"clScrol=
+l2\" onclick=3D\"parent.fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTab=
+s(1);\" onmouseover=3D\"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent=
+.fnMouseOutScroll(2);\"><a>&gt</a></td>"+=0A  "<td valign=3Dtop id=3DtdScrol=
+l class=3D\"clScroll\" onclick=3D\"parent.fnFastScrollTabs(1);\" onmouseover=
+=\"parent.fnMouseOverScroll(3);\" onmouseout=3D\"parent.fnMouseOutScroll(3);=
+\"><a>&#187;</a></td>"+=0A  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table=
+></body></html>";=0A=0Aframes['frScroll'].document.open("text/html","replace=
+");=0Aframes['frScroll'].document.write(szHTML);=0Aframes['frScroll'].docume=
+nt.close();=0A=0A szHTML =3D=0A  "<html><head>"+=0A  "<style>A:link,A:visite=
+d,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+=0A  ".clTab {=
+cursor:hand;background:"+c_rgszClr[1]+";font:8pt Arial;padding-left:3px;padd=
+ing-right:3px;text-align:center;}"+=0A  ".clBorder {background:"+c_rgszClr[2=
+]+";font:1pt;}"+=0A  "</style></head><body onload=3D\"parent.fnInit();\" ons=
+electstart=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValu=
+e=3Dfalse;\" bgcolor=3D"+c_rgszClr[4]+=0A  " topmargin=3D0 leftmargin=3D0><t=
+able id=3DtbTabs cellpadding=3D0 cellspacing=3D0>";=0A=0A var iCellCount=3D(=
+c_lTabs+1)*2;=0A=0A var i;=0A for (i=3D0;i<iCellCount;i+=3D2)=0A  szHTML+=
+=3D"<col width=3D1><col>";=0A=0A var iRow;=0A for (iRow=3D0;iRow<6;iRow++) {=
+
+=0A  szHTML+=3D"<tr>";=0A=0A  if (iRow=3D=3D5)=0A   szHTML+=3D"<td colspan=
+=3D"+iCellCount+"></td>";=0A  else {=0A   if (iRow=3D=3D0) {=0A    for(i=3D0=
+;i<iCellCount;i++)=0A     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></t=
+d>";=0A   } else if (iRow=3D=3D1) {=0A    for(i=3D0;i<c_lTabs;i++) {=0A     =
+szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";=0A     s=
+zHTML+=3D=0A      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmous=
+eover=3D\"parent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTa=
+b("+i+");\">"+=0A      "<a href=3D\""+document.all.item("shLink")[i].href+"\=
+" target=3D\"frSheet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";=0A  =
+  }=0A    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><=
+a id=3DaTab>&nbsp;</a></td><td width=3D100%></td>";=0A   } else if (iRow=3D=
+=3D2) {=0A    for (i=3D0;i<c_lTabs;i++)=0A     szHTML+=3D"<td height=3D1></t=
+d><td height=3D1 class=3D\"clBorder\"></td>";=0A    szHTML+=3D"<td height=
+=3D1></td><td height=3D1></td>";=0A   } else if (iRow=3D=3D3) {=0A    for (i=
+=0;i<iCellCount;i++)=0A     szHTML+=3D"<td height=3D1></td>";=0A   } else if=
+ (iRow=3D=3D4) {=0A    for (i=3D0;i<c_lTabs;i++)=0A     szHTML+=3D"<td heigh=
+t=3D1 width=3D1></td><td height=3D1></td>";=0A    szHTML+=3D"<td height=3D1 =
+width=3D1></td><td></td>";=0A   }=0A  }=0A  szHTML+=3D"</tr>";=0A }=0A=0A sz=
+HTML+=3D"</table></body></html>";=0A=0Aframes['frTabs'].document.open("text/=
+html","replace");=0Aframes['frTabs'].document.charset=3Ddocument.charset;=
+=0Aframes['frTabs'].document. write(szHTML);=0Aframes['frTabs'].document.clo=
+se();=0A=0A}=0A=0Afunction fnInit()=0A{=0A if (parent.window.g_iIEVer>=3D4) =
+{=0A  if (document.readyState=3D=3D"complete"=0A   && frames['frTabs'].docum=
+ent.readyState=3D=3D"complete")=0A    {=0A     g_rglTabX[0]=3D0;=0A     var =
+i;=0A     for (i=3D1;i<=3Dc_lTabs;i++)=0A      with (frames['frTabs'].docume=
+nt.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])=0A       g_rglTabX[i]=3Doffset=
+Left+offsetWidth-6;=0A    }=0A    else=0A     window.setTimeout("fnInit()",1=
+50);=0A   }=0A}=0A=0Afunction fnGetIEVer()=0A{=0A var stzAgent=3Dnavigator.u=
+serAgent;=0A var iVer=3DparseInt(navigator.appVersion);=0A if (stzAgent.inde=
+xOf("MSIE")!=3D-1 && iVer<4)=0A  g_iIEVer=3D3;=0A else if (stzAgent.indexOf(=
+"MSIE 4")!=3D-1)=0A  g_iIEVer=3D4;=0A else=0A  g_iIEVer=3D5;=0A}=0A=0Afuncti=
+on fnTabToCol(iTab)=0A{=0A return 2*iTab+1;=0A}=0A=0Afunction fnNextTab(fDir=
+)=0A{=0A var iNextTab=3D-1;=0A var i;=0A=0A with (frames['frTabs'].document.=
+body) {=0A  if (fDir=3D=3D0) {=0A   if (scrollLeft>0) {=0A    for (i=3D0;i<c=
+_lTabs&&g_rglTabX[i]<scrollLeft;i++);=0A    if (i<c_lTabs)=0A     iNextTab=
+=3Di-1;=0A   }=0A  } else {=0A   if (g_rglTabX[c_lTabs]+6>offsetWidth+scroll=
+Left) {=0A    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);=0A    i=
+f (i<c_lTabs)=0A     iNextTab=3Di;=0A   }=0A  }=0A }=0A return iNextTab;=0A}=
+
+=0Afunction fnScrollTabs(fDir)=0A{=0A var iNextTab=3DfnNextTab(fDir);=0A=
+=0A if (iNextTab>=3D0) {=0A  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);=
+
+  return true;=0A } else=0A  return false;=0A}=0A=0Afunction fnFastScrollTa=
+bs(fDir)=0A{=0A if (c_lTabs>16)=0A  frames['frTabs'].scroll(g_rglTabX[fDir?c=
+_lTabs-1:0],0);=0A else=0A  if (fnScrollTabs(fDir)>0) window.setTimeout("fnF=
+astScrollTabs("+fDir+");",5);=0A}=0A=0Afunction fnSetTabProps(iTab,fActive)=
+=0A{=0A var iCol=3DfnTabToCol(iTab);=0A var i;=0A=0A if (iTab>=3D0) {=0A  wi=
+th (frames['frTabs'].document.all) {=0A   with (tbTabs) {=0A    for (i=3D0;i=
+<=3D4;i++) {=0A     with (rows[i]) {=0A      if (i=3D=3D0)=0A       cells[iC=
+ol].style.background=3Dc_rgszClr[fActive?0:2];=0A      else if (i>0 && i<4) =
+{=0A       if (fActive) {=0A        cells[iCol-1].style.background=3Dc_rgszC=
+lr[2];=0A        cells[iCol].style.background=3Dc_rgszClr[0];=0A        cell=
+s[iCol+1].style.background=3Dc_rgszClr[2];=0A       } else {=0A        if (i=
+==3D1) {=0A         cells[iCol-1].style.background=3Dc_rgszClr[2];=0A       =
+  cells[iCol].style.background=3Dc_rgszClr[1];=0A         cells[iCol+1].styl=
+e.background=3Dc_rgszClr[2];=0A        } else {=0A         cells[iCol-1].sty=
+le.background=3Dc_rgszClr[4];=0A         cells[iCol].style.background=3Dc_rg=
+szClr[(i=3D=3D2)?2:4];=0A         cells[iCol+1].style.background=3Dc_rgszClr=
+[4];=0A        }=0A       }=0A      } else=0A       cells[iCol].style.backgr=
+ound=3Dc_rgszClr[fActive?2:4];=0A     }=0A    }=0A   }=0A   with (aTab[iTab]=
+.style) {=0A    cursor=3D(fActive?"default":"hand");=0A    color=3Dc_rgszClr=
+[3];=0A   }=0A  }=0A }=0A}=0A=0Afunction fnMouseOverScroll(iCtl)=0A{=0A fram=
+es['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[5];=0A}=
+=0A=0Afunction fnMouseOutScroll(iCtl)=0A{=0A frames['frScroll'].document.all=
+.tdScroll[iCtl].style.color=3Dc_rgszClr[2];=0A}=0A=0Afunction fnMouseOverTab=
+(iTab)=0A{=0A if (iTab!=3Dg_iShCur) {=0A  var iCol=3DfnTabToCol(iTab);=0A  w=
+ith (frames['frTabs'].document.all) {=0A   tdTab[iTab].style.background=3Dc_=
+rgszClr[5];=0A  }=0A }=0A}=0A=0Afunction fnMouseOutTab(iTab)=0A{=0A if (iTab=
+>=3D0) {=0A  var elFrom=3Dframes['frTabs'].event.srcElement;=0A  var elTo=
+=3Dframes['frTabs'].event.toElement;=0A=0A  if ((!elTo) ||=0A   (elFrom.tagN=
+ame=3D=3DelTo.tagName) ||=0A   (elTo.tagName=3D=3D"A" && elTo.parentElement!=
+=elFrom) ||=0A   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) =
+{=0A=0A   if (iTab!=3Dg_iShCur) {=0A    with (frames['frTabs'].document.all)=
+ {=0A     tdTab[iTab].style.background=3Dc_rgszClr[1];=0A    }=0A   }=0A  }=
+=0A }=0A}=0A=0Afunction fnSetActiveSheet(iSh)=0A{=0A if (iSh!=3Dg_iShCur) {=
+=0A  fnSetTabProps(g_iShCur,false);=0A  fnSetTabProps(iSh,true);=0A  g_iShCu=
+r=3DiSh;=0A }=0A}=0A fnGetIEVer();=0A fnBuildFrameset();=0A//-->=0A</script>=
+
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Answer Report 1</x:Name>
+    <x:WorksheetSource HRef=3D"Anna_Nguyen_PH1_Excel_Solver.fld/sheet001.htm=
+"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sensitivity Report 1</x:Name>
+    <x:WorksheetSource HRef=3D"Anna_Nguyen_PH1_Excel_Solver.fld/sheet002.htm=
+"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Setup</x:Name>
+    <x:WorksheetSource HRef=3D"Anna_Nguyen_PH1_Excel_Solver.fld/sheet003.htm=
+"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"Anna_Nguyen_PH1_Excel_Solver.fld/stylesheet.css"/>
+  <x:WindowHeight>15720</x:WindowHeight>
+  <x:WindowWidth>28040</x:WindowWidth>
+  <x:WindowTopX>380</x:WindowTopX>
+  <x:WindowTopY>500</x:WindowTopY>
+  <x:ActiveSheet>2</x:ActiveSheet>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>=0A <frame src=3D"Anna_Nguyen_PH1_Excel_Solver.fld/sheet003.htm" name=
+=3D"frSheet">=0A <frame src=3D"Anna_Nguyen_PH1_Excel_Solver.fld/tabstrip.htm=
+" name=3D"frTabs" marginwidth=3D0 marginheight=3D0>=0A <noframes>=0A  <body>=
+
+   <p>This page uses frames, but your browser doesn't support them.</p>=0A =
+ </body>=0A </noframes>=0A</frameset>=0A</html>
+
+------=_NextPart_01D87168.C59B33D0
+Content-Location: file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	font-weight:700;}
+.xl66
+	{mso-style-parent:style0;
+	background:yellow;
+	mso-pattern:black none;}
+.xl67
+	{mso-style-parent:style0;
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl68
+	{mso-style-parent:style0;
+	background:#FFF2CC;
+	mso-pattern:black none;}
+.xl69
+	{mso-style-parent:style0;
+	background:red;
+	mso-pattern:black none;}
+.xl70
+	{mso-style-parent:style0;
+	background:#DDEBF7;
+	mso-pattern:black none;}
+.xl71
+	{mso-style-parent:style0;
+	border-top:.5pt solid gray;
+	border-right:none;
+	border-bottom:1.0pt solid gray;
+	border-left:none;}
+.xl72
+	{mso-style-parent:style0;
+	color:navy;
+	font-weight:700;
+	text-align:center;
+	border-top:1.0pt solid gray;
+	border-right:none;
+	border-bottom:1.0pt solid gray;
+	border-left:none;}
+.xl73
+	{mso-style-parent:style0;
+	border-top:.5pt solid gray;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl74
+	{mso-style-parent:style0;
+	color:navy;
+	font-weight:700;
+	text-align:center;
+	border-top:1.0pt solid gray;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl75
+	{mso-style-parent:style0;
+	color:navy;
+	font-weight:700;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid gray;
+	border-left:none;}
+.xl76
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;}
+
+------=_NextPart_01D87168.C59B33D0
+Content-Location: file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html>
+<head>=0A<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf=
+-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../Anna_Nguyen_PH1_Excel_Solver=
+.htm">
+<![if IE]>
+<base href=3D"file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/tabstrip.=
+htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>=0A<script language=3D"JavaScript">=0A<!--=0Aif (window.name!=3D"f=
+rTabs")=0A window.location.replace(document.all.item("Main-File").href);=0A/=
+/-->=0A</script>=0A<style>=0A<!--=0AA {=0A    text-decoration:none;=0A    co=
+lor:#000000;=0A    font-size:9pt;=0A}=0A-->=0A</style>=0A</head>=0A<body top=
+margin=3D0 leftmargin=3D0 bgcolor=3D"#808080">=0A<table border=3D0 cellspaci=
+ng=3D1>=0A <tr>=0A <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a =
+href=3D"sheet001.htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#0000=
+00">Answer Report 1</font></a>&nbsp;</small></small></b></td>=0A <td bgcolor=
+="#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet002.htm" target=3D"=
+frSheet"><font face=3D"Arial" color=3D"#000000">Sensitivity Report 1</font><=
+/a>&nbsp;</small></small></b></td>=0A <td bgcolor=3D"#FFFFFF" nowrap><b><sma=
+ll><small>&nbsp;<a href=3D"sheet003.htm" target=3D"frSheet"><font face=3D"Ar=
+ial" color=3D"#000000">Setup</font></a>&nbsp;</small></small></b></td>=0A=
+=0A </tr>=0A</table>=0A</body>=0A</html>
+
+------=_NextPart_01D87168.C59B33D0
+Content-Location: file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../Anna_Nguyen_PH1_Excel_Solver=
+.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/sheet001.=
+htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">=0A<!--=0Afunction f=
+nUpdateTabs()=0A {=0A  if (parent.window.g_iIEVer>=3D4) {=0A   if (parent.do=
+cument.readyState=3D=3D"complete"=0A    && parent.frames['frTabs'].document.=
+readyState=3D=3D"complete")=0A   parent.fnSetActiveSheet(0);=0A  else=0A   w=
+indow.setTimeout("fnUpdateTabs();",150);=0A }=0A}=0A=0Aif (window.name!=3D"f=
+rSheet")=0A window.location.replace("../Anna_Nguyen_PH1_Excel_Solver.htm");=
+=0Aelse=0A fnUpdateTabs();=0A//-->=0A</script>=0A<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D745 style=3D'borde=
+r-collapse:
+ collapse;table-layout:fixed;width:557pt'>
+ <col width=3D19 style=3D'mso-width-source:userset;mso-width-alt:597;width:1=
+4pt'>
+ <col width=3D48 style=3D'mso-width-source:userset;mso-width-alt:1536;width:=
+36pt'>
+ <col width=3D76 style=3D'mso-width-source:userset;mso-width-alt:2432;width:=
+57pt'>
+ <col width=3D103 style=3D'mso-width-source:userset;mso-width-alt:3285;width=
+:77pt'>
+ <col width=3D107 style=3D'mso-width-source:userset;mso-width-alt:3413;width=
+:80pt'>
+ <col width=3D87 style=3D'mso-width-source:userset;mso-width-alt:2773;width:=
+65pt'>
+ <col width=3D44 style=3D'mso-width-source:userset;mso-width-alt:1408;width:=
+33pt'>
+ <col width=3D87 span=3D3 style=3D'width:65pt'>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D5 align=3Dleft width=3D353 style=
+=3D'height:16.0pt;
+  mso-ignore:colspan;width:264pt'>Microsoft Excel 16.57 Answer Report</td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D4 align=3Dleft style=3D'height:16.0=
+pt;
+  mso-ignore:colspan'>Worksheet: [Book1]Sheet1</td>
+  <td colspan=3D6 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D4 align=3Dleft style=3D'height:16.0=
+pt;
+  mso-ignore:colspan'>Report Created: 2/2/22 11:07:33 AM</td>
+  <td colspan=3D6 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D9 align=3Dleft style=3D'height:16.0=
+pt;
+  mso-ignore:colspan'>Result: Solver found a solution.<span
+  style=3D'mso-spacerun:yes'>  </span>All constraints and optimality condit=
+ions
+  are satisfied.</td>
+  <td></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D3 align=3Dleft style=3D'height:16.0=
+pt;
+  mso-ignore:colspan'>Solver Engine</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:16.0pt'></td>
+  <td colspan=3D3 align=3Dleft style=3D'mso-ignore:colspan'>Engine: Simplex =
+LP</td>
+  <td colspan=3D6 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:16.0pt'></td>
+  <td colspan=3D3 align=3Dleft style=3D'mso-ignore:colspan'>Solution Time: 2=
+395.376
+  Seconds.</td>
+  <td colspan=3D6 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:16.0pt'></td>
+  <td colspan=3D3 align=3Dleft style=3D'mso-ignore:colspan'>Iterations: 12
+  Subproblems: 0</td>
+  <td colspan=3D6 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D3 align=3Dleft style=3D'height:16.0=
+pt;
+  mso-ignore:colspan'>Solver Options</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td colspan=3D7 align=3Dleft style=3D'mso-ignore:colspan'>Max Time Unlimit=
+ed,
+  Iterations Unlimited, Precision 1E-06, Use Automatic Scaling</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td colspan=3D9 align=3Dleft style=3D'mso-ignore:colspan'>Max Subproblems
+  Unlimited, Max Integer Sols Unlimited, Integer Tolerance 1%, Assume
+  NonNegative</td>
+ </tr>
+ <tr height=3D42 style=3D'height:32.0pt;mso-xlrowspan:2'>
+  <td height=3D42 colspan=3D10 style=3D'height:32.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 colspan=3D3 align=3Dleft style=3D'height:17.0pt;mso-ignore=
+:colspan'>Objective
+  Cell (Min)</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl72>Cell</td>
+  <td class=3Dxl72>Name</td>
+  <td class=3Dxl72>Original Value</td>
+  <td class=3Dxl72>Final Value</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl71 align=3Dleft>$L$6</td>
+  <td class=3Dxl71 align=3Dleft>Min Value</td>
+  <td class=3Dxl71 align=3Dright>0</td>
+  <td class=3Dxl71 align=3Dright>517775</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D42 style=3D'height:32.0pt;mso-xlrowspan:2'>
+  <td height=3D42 colspan=3D10 style=3D'height:32.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 colspan=3D3 align=3Dleft style=3D'height:17.0pt;mso-ignore=
+:colspan'>Variable
+  Cells</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl72>Cell</td>
+  <td class=3Dxl72>Name</td>
+  <td class=3Dxl72>Original Value</td>
+  <td class=3Dxl72>Final Value</td>
+  <td class=3Dxl72>Integer</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$B$4</td>
+  <td class=3Dxl73 align=3Dleft>WH1</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>125</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$C$4</td>
+  <td class=3Dxl73 align=3Dleft>WH2</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>95</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$D$4</td>
+  <td class=3Dxl73 align=3Dleft>WH1</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>135</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$E$4</td>
+  <td class=3Dxl73 align=3Dleft>WH2</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>175</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$F$4</td>
+  <td class=3Dxl73 align=3Dleft>RO1</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$G$4</td>
+  <td class=3Dxl73 align=3Dleft>RO2</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$H$4</td>
+  <td class=3Dxl73 align=3Dleft>RO3</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$I$4</td>
+  <td class=3Dxl73 align=3Dleft>RO1</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$J$4</td>
+  <td class=3Dxl73 align=3Dleft>RO2</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>150</td>
+  <td class=3Dxl73 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl71 align=3Dleft>$K$4</td>
+  <td class=3Dxl71 align=3Dleft>RO3</td>
+  <td class=3Dxl71 align=3Dright>0</td>
+  <td class=3Dxl71 align=3Dright>60</td>
+  <td class=3Dxl71 align=3Dleft>Contin</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D42 style=3D'height:32.0pt;mso-xlrowspan:2'>
+  <td height=3D42 colspan=3D10 style=3D'height:32.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 colspan=3D3 align=3Dleft style=3D'height:17.0pt;mso-ignore=
+:colspan'>Constraints</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl72>Cell</td>
+  <td class=3Dxl72>Name</td>
+  <td class=3Dxl72>Cell Value</td>
+  <td class=3Dxl72>Formula</td>
+  <td class=3Dxl72>Status</td>
+  <td class=3Dxl72>Slack</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$10</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>175</td>
+  <td class=3Dxl73 align=3Dleft>$L$10&lt;=3D$N$10</td>
+  <td class=3Dxl73 align=3Dleft>Not Binding</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$11</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dleft>$L$11&lt;=3D$N$11</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$12</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dleft>$L$12&lt;=3D$N$12</td>
+  <td class=3Dxl73 align=3Dleft>Not Binding</td>
+  <td class=3Dxl73 align=3Dright>90</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$13</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dleft>$L$13&lt;=3D$N$13</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$14</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dleft>$L$14&lt;=3D$N$14</td>
+  <td class=3Dxl73 align=3Dleft>Not Binding</td>
+  <td class=3Dxl73 align=3Dright>65</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$15</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>150</td>
+  <td class=3Dxl73 align=3Dleft>$L$15&lt;=3D$N$15</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$16</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dleft>$L$16&lt;=3D$N$16</td>
+  <td class=3Dxl73 align=3Dleft>Not Binding</td>
+  <td class=3Dxl73 align=3Dright>25</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$17</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>220</td>
+  <td class=3Dxl73 align=3Dleft>$L$17=3D$N$17</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$18</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>310</td>
+  <td class=3Dxl73 align=3Dleft>$L$18=3D$N$18</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$19</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dleft>$L$19=3D$N$19</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$20</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dleft>$L$20=3D$N$20</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$21</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>-160</td>
+  <td class=3Dxl73 align=3Dleft>$L$21=3D$N$21</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$22</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>-210</td>
+  <td class=3Dxl73 align=3Dleft>$L$22=3D$N$22</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$23</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>-160</td>
+  <td class=3Dxl73 align=3Dleft>$L$23=3D$N$23</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$7</td>
+  <td class=3Dxl73 align=3Dleft>s.t. Value</td>
+  <td class=3Dxl73 align=3Dright>125</td>
+  <td class=3Dxl73 align=3Dleft>$L$7&lt;=3D$N$7</td>
+  <td class=3Dxl73 align=3Dleft>Binding</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$8</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>95</td>
+  <td class=3Dxl73 align=3Dleft>$L$8&lt;=3D$N$8</td>
+  <td class=3Dxl73 align=3Dleft>Not Binding</td>
+  <td class=3Dxl73 align=3Dright>55</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl71 align=3Dleft>$L$9</td>
+  <td class=3Dxl71 align=3Dleft>Value</td>
+  <td class=3Dxl71 align=3Dright>135</td>
+  <td class=3Dxl71 align=3Dleft>$L$9&lt;=3D$N$9</td>
+  <td class=3Dxl71 align=3Dleft>Not Binding</td>
+  <td class=3Dxl71 align=3Dright>65</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D19 style=3D'width:14pt'></td>
+  <td width=3D48 style=3D'width:36pt'></td>
+  <td width=3D76 style=3D'width:57pt'></td>
+  <td width=3D103 style=3D'width:77pt'></td>
+  <td width=3D107 style=3D'width:80pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D87168.C59B33D0
+Content-Location: file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/sheet002.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../Anna_Nguyen_PH1_Excel_Solver=
+.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/sheet002.=
+htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">=0A<!--=0Afunction f=
+nUpdateTabs()=0A {=0A  if (parent.window.g_iIEVer>=3D4) {=0A   if (parent.do=
+cument.readyState=3D=3D"complete"=0A    && parent.frames['frTabs'].document.=
+readyState=3D=3D"complete")=0A   parent.fnSetActiveSheet(1);=0A  else=0A   w=
+indow.setTimeout("fnUpdateTabs();",150);=0A }=0A}=0A=0Aif (window.name!=3D"f=
+rSheet")=0A window.location.replace("../Anna_Nguyen_PH1_Excel_Solver.htm");=
+=0Aelse=0A fnUpdateTabs();=0A//-->=0A</script>=0A<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D480 style=3D'borde=
+r-collapse:
+ collapse;table-layout:fixed;width:359pt'>
+ <col width=3D19 style=3D'mso-width-source:userset;mso-width-alt:597;width:1=
+4pt'>
+ <col width=3D48 style=3D'mso-width-source:userset;mso-width-alt:1536;width:=
+36pt'>
+ <col width=3D71 style=3D'mso-width-source:userset;mso-width-alt:2261;width:=
+53pt'>
+ <col width=3D47 style=3D'mso-width-source:userset;mso-width-alt:1493;width:=
+35pt'>
+ <col width=3D65 style=3D'mso-width-source:userset;mso-width-alt:2090;width:=
+49pt'>
+ <col width=3D80 style=3D'mso-width-source:userset;mso-width-alt:2560;width:=
+60pt'>
+ <col width=3D75 span=3D2 style=3D'mso-width-source:userset;mso-width-alt:23=
+89;
+ width:56pt'>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D6 align=3Dleft width=3D330 style=
+=3D'height:16.0pt;
+  mso-ignore:colspan;width:247pt'>Microsoft Excel 16.57 Sensitivity Report</=
+td>
+  <td width=3D75 style=3D'width:56pt'></td>
+  <td width=3D75 style=3D'width:56pt'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D4 align=3Dleft style=3D'height:16.0=
+pt;
+  mso-ignore:colspan'>Worksheet: [Book1]Sheet1</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D5 align=3Dleft style=3D'height:16.0=
+pt;
+  mso-ignore:colspan'>Report Created: 2/2/22 11:07:34 AM</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D42 style=3D'height:32.0pt;mso-xlrowspan:2'>
+  <td height=3D42 colspan=3D8 style=3D'height:32.0pt;mso-ignore:colspan'></t=
+d>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 colspan=3D3 align=3Dleft style=3D'height:17.0pt;mso-ignore=
+:colspan'>Variable
+  Cells</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl74>&nbsp;</td>
+  <td class=3Dxl74>&nbsp;</td>
+  <td class=3Dxl74>Final</td>
+  <td class=3Dxl74>Reduced</td>
+  <td class=3Dxl74>Objective</td>
+  <td class=3Dxl74>Allowable</td>
+  <td class=3Dxl74>Allowable</td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl75>Cell</td>
+  <td class=3Dxl75>Name</td>
+  <td class=3Dxl75>Value</td>
+  <td class=3Dxl75>Cost</td>
+  <td class=3Dxl75>Coefficient</td>
+  <td class=3Dxl75>Increase</td>
+  <td class=3Dxl75>Decrease</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$B$4</td>
+  <td class=3Dxl73 align=3Dleft>WH1</td>
+  <td class=3Dxl73 align=3Dright>125</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>425</td>
+  <td class=3Dxl73 align=3Dright>45</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$C$4</td>
+  <td class=3Dxl73 align=3Dleft>WH2</td>
+  <td class=3Dxl73 align=3Dright>95</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>560</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>45</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$D$4</td>
+  <td class=3Dxl73 align=3Dleft>WH1</td>
+  <td class=3Dxl73 align=3Dright>135</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>510</td>
+  <td class=3Dxl73 align=3Dright>10</td>
+  <td class=3Dxl73 align=3Dright>5</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$E$4</td>
+  <td class=3Dxl73 align=3Dleft>WH2</td>
+  <td class=3Dxl73 align=3Dright>175</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>600</td>
+  <td class=3Dxl73 align=3Dright>5</td>
+  <td class=3Dxl73 align=3Dright>10</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$F$4</td>
+  <td class=3Dxl73 align=3Dleft>RO1</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>470</td>
+  <td class=3Dxl73 align=3Dright>10</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$G$4</td>
+  <td class=3Dxl73 align=3Dleft>RO2</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>505</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>5</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$H$4</td>
+  <td class=3Dxl73 align=3Dleft>RO3</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>490</td>
+  <td class=3Dxl73 align=3Dright>40</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$I$4</td>
+  <td class=3Dxl73 align=3Dleft>RO1</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>390</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>10</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$J$4</td>
+  <td class=3Dxl73 align=3Dleft>RO2</td>
+  <td class=3Dxl73 align=3Dright>150</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>410</td>
+  <td class=3Dxl73 align=3Dright>5</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl71 align=3Dleft>$K$4</td>
+  <td class=3Dxl71 align=3Dleft>RO3</td>
+  <td class=3Dxl71 align=3Dright>60</td>
+  <td class=3Dxl71 align=3Dright>0</td>
+  <td class=3Dxl71 align=3Dright>440</td>
+  <td class=3Dxl71 align=3Dright>1E+30</td>
+  <td class=3Dxl71 align=3Dright>40</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 colspan=3D8 style=3D'height:16.0pt;mso-ignore:colspan'></t=
+d>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 colspan=3D3 align=3Dleft style=3D'height:17.0pt;mso-ignore=
+:colspan'>Constraints</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl74>&nbsp;</td>
+  <td class=3Dxl74>&nbsp;</td>
+  <td class=3Dxl74>Final</td>
+  <td class=3Dxl74>Shadow</td>
+  <td class=3Dxl74>Constraint</td>
+  <td class=3Dxl74>Allowable</td>
+  <td class=3Dxl74>Allowable</td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl75>Cell</td>
+  <td class=3Dxl75>Name</td>
+  <td class=3Dxl75>Value</td>
+  <td class=3Dxl75>Price</td>
+  <td class=3Dxl75>R.H. Side</td>
+  <td class=3Dxl75>Increase</td>
+  <td class=3Dxl75>Decrease</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$10</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>175</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>225</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$11</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dright>-10</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$12</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>150</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>90</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$13</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dright>-40</td>
+  <td class=3Dxl73 align=3Dright>100</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dright>25</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$14</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>125</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>65</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$15</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>150</td>
+  <td class=3Dxl73 align=3Dright>-5</td>
+  <td class=3Dxl73 align=3Dright>150</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+  <td class=3Dxl73 align=3Dright>65</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$16</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>85</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>25</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$17</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>220</td>
+  <td class=3Dxl73 align=3Dright>975</td>
+  <td class=3Dxl73 align=3Dright>220</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$18</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>310</td>
+  <td class=3Dxl73 align=3Dright>1015</td>
+  <td class=3Dxl73 align=3Dright>310</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$19</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>505</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>60</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$20</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>415</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$21</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>-160</td>
+  <td class=3Dxl73 align=3Dright>25</td>
+  <td class=3Dxl73 align=3Dright>-160</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$22</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>-210</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>-210</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$23</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>-160</td>
+  <td class=3Dxl73 align=3Dright>-25</td>
+  <td class=3Dxl73 align=3Dright>-160</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>25</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$7</td>
+  <td class=3Dxl73 align=3Dleft>s.t. Value</td>
+  <td class=3Dxl73 align=3Dright>125</td>
+  <td class=3Dxl73 align=3Dright>-45</td>
+  <td class=3Dxl73 align=3Dright>125</td>
+  <td class=3Dxl73 align=3Dright>50</td>
+  <td class=3Dxl73 align=3Dright>55</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl73 align=3Dleft>$L$8</td>
+  <td class=3Dxl73 align=3Dleft>Value</td>
+  <td class=3Dxl73 align=3Dright>95</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl73 align=3Dright>150</td>
+  <td class=3Dxl73 align=3Dright>1E+30</td>
+  <td class=3Dxl73 align=3Dright>55</td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.0pt'>
+  <td height=3D23 style=3D'height:17.0pt'></td>
+  <td class=3Dxl71 align=3Dleft>$L$9</td>
+  <td class=3Dxl71 align=3Dleft>Value</td>
+  <td class=3Dxl71 align=3Dright>135</td>
+  <td class=3Dxl71 align=3Dright>0</td>
+  <td class=3Dxl71 align=3Dright>200</td>
+  <td class=3Dxl71 align=3Dright>1E+30</td>
+  <td class=3Dxl71 align=3Dright>65</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D19 style=3D'width:14pt'></td>
+  <td width=3D48 style=3D'width:36pt'></td>
+  <td width=3D71 style=3D'width:53pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D65 style=3D'width:49pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D75 style=3D'width:56pt'></td>
+  <td width=3D75 style=3D'width:56pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D87168.C59B33D0
+Content-Location: file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/sheet003.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../Anna_Nguyen_PH1_Excel_Solver=
+.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/sheet003.=
+htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">=0A<!--=0Afunction f=
+nUpdateTabs()=0A {=0A  if (parent.window.g_iIEVer>=3D4) {=0A   if (parent.do=
+cument.readyState=3D=3D"complete"=0A    && parent.frames['frTabs'].document.=
+readyState=3D=3D"complete")=0A   parent.fnSetActiveSheet(2);=0A  else=0A   w=
+indow.setTimeout("fnUpdateTabs();",150);=0A }=0A}=0A=0Aif (window.name!=3D"f=
+rSheet")=0A window.location.replace("../Anna_Nguyen_PH1_Excel_Solver.htm");=
+=0Aelse=0A fnUpdateTabs();=0A//-->=0A</script>=0A<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1278 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:955pt'>
+ <col width=3D147 style=3D'mso-width-source:userset;mso-width-alt:4693;width=
+:110pt'>
+ <col width=3D87 span=3D13 style=3D'width:65pt'>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td colspan=3D11 height=3D21 class=3Dxl76 width=3D1017 style=3D'height:16.=
+0pt;
+  width:760pt'>Decision variables</td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 align=3Dleft style=3D'height:16.0pt'>From</td=
+>
+  <td align=3Dleft>P1</td>
+  <td align=3Dleft>P1</td>
+  <td align=3Dleft>P2</td>
+  <td align=3Dleft>P2</td>
+  <td align=3Dleft>WH1</td>
+  <td align=3Dleft>WH1</td>
+  <td align=3Dleft>WH1</td>
+  <td align=3Dleft>WH2</td>
+  <td align=3Dleft>WH2</td>
+  <td align=3Dleft>WH2</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 align=3Dleft style=3D'height:16.0pt'>To</td>
+  <td align=3Dleft>WH1</td>
+  <td align=3Dleft>WH2</td>
+  <td align=3Dleft>WH1</td>
+  <td align=3Dleft>WH2</td>
+  <td align=3Dleft>RO1</td>
+  <td align=3Dleft>RO2</td>
+  <td align=3Dleft>RO3</td>
+  <td align=3Dleft>RO1</td>
+  <td align=3Dleft>RO2</td>
+  <td align=3Dleft>RO3</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl66 align=3Dright>125</td>
+  <td class=3Dxl66 align=3Dright>95</td>
+  <td class=3Dxl66 align=3Dright>135</td>
+  <td class=3Dxl66 align=3Dright>175</td>
+  <td class=3Dxl66 align=3Dright>100</td>
+  <td class=3Dxl66 align=3Dright>60</td>
+  <td class=3Dxl66 align=3Dright>100</td>
+  <td class=3Dxl66 align=3Dright>60</td>
+  <td class=3Dxl66 align=3Dright>150</td>
+  <td class=3Dxl66 align=3Dright>60</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 colspan=3D11 style=3D'height:16.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl65 align=3Dleft>Value</td>
+  <td class=3Dxl65 align=3Dleft>Sign</td>
+  <td class=3Dxl65 align=3Dleft>RHS</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 align=3Dleft style=3D'height:16.0pt'>Min</td>
+  <td align=3Dright>425</td>
+  <td align=3Dright>560</td>
+  <td align=3Dright>510</td>
+  <td align=3Dright>600</td>
+  <td align=3Dright>470</td>
+  <td align=3Dright>505</td>
+  <td align=3Dright>490</td>
+  <td align=3Dright>390</td>
+  <td align=3Dright>410</td>
+  <td align=3Dright>440</td>
+  <td align=3Dright>517775</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 class=3Dxl65 align=3Dleft style=3D'height:16.0pt'>s.t.</td=
+>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>125</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>125</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>95</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>150</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>135</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>200</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>175</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>225</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>100</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>100</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>60</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>150</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>100</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>100</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>60</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>125</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td align=3Dright>150</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>150</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67>&nbsp;</td>
+  <td class=3Dxl67 align=3Dright>1</td>
+  <td align=3Dright>60</td>
+  <td align=3Dleft>&lt;=3D</td>
+  <td align=3Dright>85</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl69>&nbsp;</td>
+  <td class=3Dxl69>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td align=3Dright>220</td>
+  <td align=3Dleft>=3D</td>
+  <td align=3Dright>220</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl69>&nbsp;</td>
+  <td class=3Dxl69>&nbsp;</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td align=3Dright>310</td>
+  <td align=3Dleft>=3D</td>
+  <td align=3Dright>310</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td align=3Dright>0</td>
+  <td align=3Dleft>=3D</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td class=3Dxl69 align=3Dright>1</td>
+  <td align=3Dright>0</td>
+  <td align=3Dleft>=3D</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td align=3Dright>-160</td>
+  <td align=3Dleft>=3D</td>
+  <td align=3Dright>-160</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td align=3Dright>-210</td>
+  <td align=3Dleft>=3D</td>
+  <td align=3Dright>-210</td>
+ </tr>
+ <tr height=3D21 style=3D'height:16.0pt'>
+  <td height=3D21 style=3D'height:16.0pt'></td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl68>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70>&nbsp;</td>
+  <td class=3Dxl70 align=3Dright>-1</td>
+  <td align=3Dright>-160</td>
+  <td align=3Dleft>=3D</td>
+  <td align=3Dright>-160</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D147 style=3D'width:110pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+  <td width=3D87 style=3D'width:65pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D87168.C59B33D0
+Content-Location: file:///C:/6D27E512/Anna_Nguyen_PH1_Excel_Solver.fld/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Anna_Nguyen_PH1_Excel_Solver.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"sheet002.htm"/>
+ <o:File HRef=3D"sheet003.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D87168.C59B33D0--
