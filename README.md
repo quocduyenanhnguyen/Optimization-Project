@@ -9,8 +9,8 @@
 
 # Network Optimization:
 in this project, I built two network optimization models for two problem statements. I built the first model to determine how many cars to be shipped from three production plants to two distribution centers to minimize total shipping costs, and I built the second model to determine how many solar powered air conditioning systems should be produced each month to minimize total unit cost. The detailed description of the two problem statements and my solution (that includes six-step model building process) are included in the PDF file, along with my Excel file that shows how I solve the equations of my model with Excel Solver. You can preview screenshot of my two models in Excel file here: 
-First model: (https://user-images.githubusercontent.com/92205707/170787509-7759585a-7725-4ad4-8b86-c92c986c42c0.png)
-Second model: (https://user-images.githubusercontent.com/92205707/170787584-b2ede9a7-a5e1-4a6d-99d4-0ea70b270a4e.png)
+- First model: (https://user-images.githubusercontent.com/92205707/170787509-7759585a-7725-4ad4-8b86-c92c986c42c0.png)
+- Second model: (https://user-images.githubusercontent.com/92205707/170787584-b2ede9a7-a5e1-4a6d-99d4-0ea70b270a4e.png)
 
 
 # Discrete Optimization: 
@@ -21,9 +21,9 @@ in this group project, I was in charge of building nonlinear optimization model 
 
 # Queueing Model: 
 in this project, I analyzed the queueing systems of a hospital before COVID, after COVID, and after Mask Mandate by utilizing queueing model (M/M/s model template) to determine how the system performs under the three aforementioned scenarios, and made recommendations that I believe to be the optimal course of actions that meet the criteria. The detailed description of the problem statement along with my solution (which is the analysis of the system performance under three scenarios and recommendations) can be found in the Excel spreadsheet. You can preview screenshot of my solution before COVID in Excel file here:
-(https://user-images.githubusercontent.com/92205707/170788934-28315a9c-b2f7-4a60-8a05-db24e3961f28.png)
-(https://user-images.githubusercontent.com/92205707/170789093-082aa9df-87ae-4cfe-851e-f215986fccaa.png)
-(https://user-images.githubusercontent.com/92205707/170789229-3feee495-ec66-45ce-acc8-51aa51ca3d1a.png)
+- (https://user-images.githubusercontent.com/92205707/170788934-28315a9c-b2f7-4a60-8a05-db24e3961f28.png)
+- (https://user-images.githubusercontent.com/92205707/170789093-082aa9df-87ae-4cfe-851e-f215986fccaa.png)
+- (https://user-images.githubusercontent.com/92205707/170789229-3feee495-ec66-45ce-acc8-51aa51ca3d1a.png)
 
 # Simulation Model: 
 in this extra credit project, I built three simulation models for three problem statements (Freddie, Maintenance, and Herr Cutter) to analyze system performance under uncertainty and compute the confidence interval to find the range of the measure of performance. 
