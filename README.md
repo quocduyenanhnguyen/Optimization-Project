@@ -1,10 +1,3 @@
-# Table of Contents
-* [Network Optimization](#Network-Optimization)
-* [Discrete Optimization](#Discrete-Optimization)
-* [Nonlinear Optimization](#Nonlinear-Optimization)
-* [Queueing Model](#Queueing-Model)
-* [Simulation Model](#Simulation-Model)
-
 [Note: you can preview files that are in PDF format by clicking on the file]
 
 # Network Optimization:
