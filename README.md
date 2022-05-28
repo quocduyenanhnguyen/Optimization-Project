@@ -1,5 +1,8 @@
 [Note: you can preview files that are in PDF format by clicking on the file]
 
+# Software I used:
+Microsoft Excel 
+
 # Network Optimization:
 in this project, I built two network optimization models for two problem statements. I built the first model to determine how many cars to be shipped from three production plants to two distribution centers to minimize total shipping costs, and I built the second model to determine how many solar powered air conditioning systems should be produced each month to minimize total unit cost. The detailed description of the two problem statements and my solution (that includes six-step model building process) are included in the PDF file, along with my Excel file that shows how I solve the equations of my model with Excel Solver. You can preview screenshot of my two models in Excel file here: 
 - First model: (https://user-images.githubusercontent.com/92205707/170787509-7759585a-7725-4ad4-8b86-c92c986c42c0.png)
