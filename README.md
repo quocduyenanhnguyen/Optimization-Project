@@ -25,13 +25,13 @@ in this project, I analyzed the queueing systems of a hospital before COVID, aft
 
 # Simulation Model: 
 in this extra credit project, I built three simulation models for three problem statements (Freddie, Maintenance, and Herr Cutter) to analyze system performance under uncertainty and compute the confidence interval to find the range of the measure of performance. 
-1. For the Freddie problem, I simulated the system to find out how the newspaper order quantity will affect the daily profit and what would be the range of profit that Freddie is expected to generate. You can preview the sreenshot of my model and my model's range of profit in Excel file here:
+1. For the Freddie problem, I simulated the system to find out how the newspaper order quantity will affect the daily profit and what would be the range of profit that Freddie is expected to generate. You can preview the screenshot of my model and my model's range of profit in Excel file here:
 - Model: (https://user-images.githubusercontent.com/92205707/170789491-0a8157ef-245b-44ef-88fe-0c9c9da2b9b3.png)
 - Range: (https://user-images.githubusercontent.com/92205707/170789540-c24e6b3e-100a-44df-85f5-b68b6c225dc4.png)
-2. For the Maintenance problem, I simulated the system to find out the average cost per day for two random events (before and after the machine breaks down) and the range of cost that Heavy Duty is expected to incur for replacing the motor. You can preview the sreenshot of my model and my model's range of daily average cost in Excel file here: 
+2. For the Maintenance problem, I simulated the system to find out the average cost per day for two random events (before and after the machine breaks down) and the range of cost that Heavy Duty is expected to incur for replacing the motor. You can preview the screenshot of my model and my model's range of daily average cost in Excel file here: 
 - Model: (https://user-images.githubusercontent.com/92205707/170789639-46abacf2-1b9c-4e44-8fdf-2139711d83c3.png)
 - Range: (https://user-images.githubusercontent.com/92205707/170789664-6fe28ceb-bb1c-41c1-952c-a7657fba5776.png)
-3. For the Herr Cutter problem, I simulated the system to find out the average waiting time in the queue to get haircut and the range of waiting time in the queue that customers are expected to wait. The two random events in this problem are interarrival and service time. You can preview the sreenshot of my model and my model's range of waiting time in Excel file here:
+3. For the Herr Cutter problem, I simulated the system to find out the average waiting time in the queue to get haircut and the range of waiting time in the queue that customers are expected to wait. The two random events in this problem are interarrival and service time. You can preview the screenshot of my model and my model's range of waiting time in Excel file here:
 - Model and Range: (https://user-images.githubusercontent.com/92205707/170789878-26541411-09ae-4078-8787-cf589cad3878.png)
 
 The detailed description of the three problem statements along with my solution for the three problems can be found in the Excel spreadsheet.
